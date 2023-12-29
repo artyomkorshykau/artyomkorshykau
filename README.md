@@ -3,6 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&pause=1000&repeat=false&random=false&width=435&lines=My+tech+stack" alt="Typing SVG" /></a>
 <div>
    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width='40px' height='40px'/>
                  
 </div>
