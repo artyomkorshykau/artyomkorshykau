@@ -1,3 +1,1 @@
-<h1 align="center">Hi there, i'm Artyom>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer from Bulba</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+Alternates&pause=1000&random=false&width=435&lines=Hi+there%2C+i%60m+Artyom.;Frontend+developer+from+Belarus." alt="Typing SVG" /></a>
