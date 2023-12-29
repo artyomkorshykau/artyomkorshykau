@@ -20,4 +20,3 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat%2B+Alternates&pause=1000&repeat=false&random=false&width=435&lines=Social" alt="Typing SVG" />
 </a>
-<img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram-app--v1"/>
