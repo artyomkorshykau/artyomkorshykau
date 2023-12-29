@@ -19,7 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width='40px' height='40px'/> 
 </div>
 
-<div></div>
+<div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat%2B+Alternates&pause=1000&repeat=false&random=false&width=435&lines=Social:" alt="Typing SVG" />
 </a>
 <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" width='40px' height='40px'/> 
