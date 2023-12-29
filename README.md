@@ -23,7 +23,9 @@
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat%2B+Alternates&pause=1000&repeat=false&random=false&width=140&lines=Social:" alt="Typing SVG" />
 </a>
-<a href='t.me/artyomkorshykau'><img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" width='40px' height='40px'/> </a>
+<a href='t.me/artyomkorshykau'>
+  <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" width='40px' height='40px'/> 
+</a>
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-1024.png" width='40px' height='40px'/> 
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png" width='40px' height='40px'/>
 <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-1024.png" width='40px' height='40px'/>
