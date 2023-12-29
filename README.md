@@ -22,7 +22,7 @@
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat%2B+Alternates&pause=1000&repeat=false&random=false&width=140&lines=Social:" alt="Typing SVG" />
 </a>
-<img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" width='40px' height='40px'/> 
+<img src="https://cdn2.iconfinder.com/data/icons/social-media-2421/512/Telegram-1024.png" width='30px' height='30px'/> 
 </div>
 
 <div>
