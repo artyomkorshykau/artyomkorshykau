@@ -2,7 +2,7 @@
 
 
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&pause=1000&repeat=false&random=false&width=200&lines=Tech+stack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&pause=1000&repeat=false&random=false&width=150&lines=Tech+stack" alt="Typing SVG" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width='40px' height='40px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width='40px' height='40px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width='40px' height='40px'/>
