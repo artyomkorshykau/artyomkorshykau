@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+Alternates&pause=1000&color=16B4FF&random=false&width=435&lines=Hi+there%2C+i%60m+Artyom.;I%60m+frontend+developer+from+Belarus." alt="Typing SVG" /></a>
 
-<a href='https://drive.google.com/file/d/1czUxM3xGEG-PueflkzsOSkS11P-gMxxY/view?usp=sharing'>🐋 my CV</a>
+<a href='https://drive.google.com/file/d/1c-FbkHyDVKSvIQdn8XSqyEM5CCyuRrhM/view?usp=sharing'>🐋 my CV</a>
 
 
 <div>
