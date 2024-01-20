@@ -3,8 +3,6 @@
 <a href='https://drive.google.com/file/d/1AP9CsPiP29m49JxfeK3m6JJdrLLCGv6L/view?usp=sharing' target="_blank">🐋 CV main</a>
 <a href='https://drive.google.com/file/d/1u5iy0HT-5R4Sbolegjs1x6fkIR5NEQRJ/view?usp=sharing' target="_blank" >| secondary</a>
 
-<style>a { text-decoration: none; }
-
 
 <!--<div>-->
 <!--    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&pause=1000&repeat=false&random=false&width=140&lines=Tech+stack%3A" alt="Typing SVG" /></a>-->
