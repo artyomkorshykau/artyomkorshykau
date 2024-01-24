@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+Alternates&pause=1000&color=16B4FF&random=false&width=550&lines=Hi+there%2C+i%60m+Artyom.+Front-end+software+engineer.;Samurai,+philanthropist,+developer,+toilet+director" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=200&size=25&pause=1000&color=FF004D&multiline=true&random=false&width=478&height=70&lines=Hi+there+i%60m+Artyom.+Front-end+software+engineer..;as+well+as+philanthropist%2C+developer%2C+toilet+director" alt="Typing SVG" /></a>
 
 <a href='https://drive.google.com/file/d/150JoV2vQHIBIOtcNQunrjvGda4Gt07vA/view?usp=sharing' target="_blank">🐋 CV main</a>
 <a href='https://drive.google.com/file/d/1-2cROoo7d0131Zd6GT8V7Td0qqvshK9j/view?usp=sharing' target="_blank" >| secondary</a>
