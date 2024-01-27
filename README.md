@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=200&size=25&pause=2000&color=FF004D&multiline=true&random=false&width=670&height=70&lines=Hi+there+i%60m+Artyom.+Front-end+developer..;as+well+as+philanthropist%2C+playboy%2C+toilet+director." alt="Typing SVG" /></a>
 
-<a href='' target="_blank">🐋 CV main</a>
-<a href='' target="_blank" >| secondary</a>
+<a href='https://drive.google.com/file/d/1b1arwzHMiNee8NjqirhxeaSS73osmNVg/view?usp=sharing' target="_blank">🐋 CV</a>
+
 
 
 <!--<div>-->
