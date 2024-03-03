@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=200&size=25&pause=2000&color=FF004D&random=false&width=670&height=70&lines=philanthropist%2C+playboy%2C+toilet+director." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=200&size=25&pause=2000&color=FF004D&random=false&width=670&height=70&lines=philanthropist%2C+playboy%2C+developer%2C+toilet+director." alt="Typing SVG" /></a>
 
 <a href='https://drive.google.com/file/d/1T_YRjYTnQ60OPH6EJOy2e5fFwuOut2nV/view?usp=sharing' target="_blank">🐋 CV</a>
 
