@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=200&size=25&pause=2000&color=F539BF5&random=false&width=670&height=70&lines=philanthropist%2C+playboy%2C+developer%2C+toilet+director." alt="Typing SVG" /></a>
 
-<a href='https://drive.google.com/file/d/1YF1maBpwdt9gbuxm44d3WzbtVF7AQzNc/view?usp=sharing' target="_blank"> 🦾 CV</a>
+<a href='https://drive.google.com/file/d/1QhVK0ctlsDk7CR04NeyxwJxvMkx_uLT-/view?usp=sharing' target="_blank"> 🦾 CV</a>
 
 
 
